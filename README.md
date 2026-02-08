@@ -39,7 +39,7 @@ This version of rack contains bug fixes and security patches.
 ### Rack 3.0
 
 This version of rack contains significant changes which are detailed in the
-[Upgrade Guide](UPGRADE-GUIDE.md). It is recommended to upgrade to Rack 3 as soon
+[Upgrade Guide]. It is recommended to upgrade to Rack 3 as soon
 as possible to receive the latest features and security patches.
 
 ### Rack 2.2
@@ -382,3 +382,4 @@ Rack is released under the [MIT License](MIT-LICENSE).
 [Rack Specification]: https://rack.github.io/rack/main/SPEC_rdoc.html
 [Documentation]: https://rack.github.io/rack/
 [Security Policy]: SECURITY.md
+[Upgrade Guide]: https://rack.github.io/rack/main/UPGRADE-GUIDE_md.html
